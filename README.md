@@ -6,7 +6,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johanfstr&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10&include_all_commits=true&count_private=true" />
-   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johanfstr&theme=dark&hide_border=true&layout=compact&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=jupyter%20notebook&count_private=true" />
+   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johanfstr&theme=dark&hide_border=true&layout=compact&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=Objective-C&hide=M4%20notebook&count_private=true" />
 </div>
 
 <br/>
