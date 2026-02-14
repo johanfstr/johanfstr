@@ -12,7 +12,7 @@
 <br/>
 
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=$.public_repos&url=https://api.github.com/users/johanfstr&color=2d333b&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-20+-3d444d?style=for-the-badge&logo=git&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-100+-3d444d?style=for-the-badge&logo=git&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projets%20terminés-3-444c56?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
