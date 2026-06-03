@@ -6,7 +6,7 @@
 /\__|  |\____/|___|  /____  /___|  / /___  / /\
 \_____/            \/     \/     \/      \/  \/
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=%3E+Initializing+system...;Welcome+to+Johan+Forestier's+page.;%C3%89tudiant+en+Licence+Informatique;+%C3%A0+l'Universit%C3%A9+de+Poitiers;Bonne+visite+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=%3E+Initializing+system...;Welcome+to+Johan+Forestier's+page.;%C3%89tudiant+en+Informatique;+%C3%A0+l'EFREI+de+Bordeaux;Bonne+visite+😊)](https://git.io/typing-svg)
 
 <!-- ========================= -->
 <!-- 📊 GITHUB STATS -->
